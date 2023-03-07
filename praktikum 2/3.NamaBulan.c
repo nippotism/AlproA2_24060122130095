@@ -9,8 +9,12 @@ NIM : 24060122130095
 #include <stdio.h>
 
 int main() {
+    
+    //Kamus
     int NomorBulan;
 
+    
+    //Algoritma
     printf("Masukkan nomor Bulan: ");
     scanf("%d", &NomorBulan);
 
