@@ -1,18 +1,21 @@
 /*
 Nama Program  : hitungtahanan.c
 Deskripsi     : Menghitung dan menampilkan jumlah total dari ketiga tahanan yang masing - masing nilainya tidak boleh negatif.
-Nama Pembuat  : Bintang Syafrian Rizal
+Nama Pembuat  : Syariful Hanif Setiawan
 NIM           : 24060122120031
-Tanggal       : 28 Februari 2023 22:45 WIB
 */
 
 #include <stdio.h>
 
 int main(void) {
+   
+   //Kamus
    int tahanan1;
    int tahanan2;
    int tahanan3;
    int total;
+   
+   //Algoritma
 
    printf("Masukkan nilai tahanan 1: ");
    scanf("%d", &tahanan1);
