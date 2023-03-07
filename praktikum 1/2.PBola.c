@@ -6,8 +6,13 @@ NIM : 24060122130095
 
 */
 int main() {
+    
+    
+    //Kamus
     float vnol, t, y;
     const double g = 9.8;
+    
+    //Algoritma
     scanf("%f",&vnol);
     scanf("%f",&t);
 
