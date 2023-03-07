@@ -12,9 +12,11 @@ NIM : 24060122130095
 
 int main() {
 
+    
+    //Kamus
     float f, m, v, r;
 
-
+    //Algoritma
     printf("masukkan massa benda :");
     scanf("%f",&m);
 
