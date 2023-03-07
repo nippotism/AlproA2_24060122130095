@@ -9,8 +9,11 @@ NIM : 24060122130095
 #include <stdio.h>
 
 int main() {
+    
+    //Kamus
     int NomorHari;
-
+    
+    //Algoritma
     printf("Masukkan nomor hari: ");
     scanf("%d", &NomorHari);
 
