@@ -1,9 +1,21 @@
+/*
+Nama : Syariful Hanif Setiawan
+NIM  : 24060122130095
+*/
+
+
+
+
 #include <stdio.h>
 
 int main() {
+    
+    //Kamus
     int iA, iB;
     char choice;
 
+    
+    //Algoritma
     printf("Masukkan bilangan pertama: ");
     scanf("%d", &iA);
     printf("Masukkan bilangan kedua: ");
