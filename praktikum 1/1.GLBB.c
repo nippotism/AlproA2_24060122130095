@@ -10,9 +10,11 @@ NIM : 24060122130095
 
 int main() {
 
-
+    //Kamus
     float vnol, t, a, s;
-
+    
+    
+    //Algoritma
     scanf("%f", &vnol);
     scanf("%f", &a);
     scanf("%f", &t);
