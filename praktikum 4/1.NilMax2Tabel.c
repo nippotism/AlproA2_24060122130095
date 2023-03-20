@@ -8,11 +8,14 @@ Deskripsi : Menampilkan bilnagna terbesar kedua didalam suatu array berisi integ
 
 int main() {
 
+  
+  //Kamus
   int a[50];
   int i;
   int n;
   int max1=0,max2=0;
     
+  //Algoritma
     printf("masukkan jumlah array yang ingin dipakai : ");
     scanf("\n%d",&n);
 
