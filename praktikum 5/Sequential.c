@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/*
+Nama : Syariful Hanif Setiawan 
+NIM  : 24060122130095
+Nama Program : Sequential.c
+Deskripsi : Menampilkan bilangan X terdapat di indeks ke berapa di array
+*/
+
 int main(){
 
     //Kamus Lokal
