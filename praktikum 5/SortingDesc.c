@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/*
+Nama : Syariful Hanif Setiawan 
+NIM  : 24060122130095
+Nama Program : SortingDesc.c
+Deskripsi : Menampilkan array yang telah diurutkan menurun menggunakan metode Maksimum Suksesif
+*/
+
 int main(){
 
 
