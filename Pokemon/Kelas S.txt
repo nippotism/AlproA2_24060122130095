@@ -1,5 +1,5 @@
 Pokemon dengan peringkat S
-Karena di data tidak ada pokemon yang lebih dari 800 maka data kriteria S diubah menjadi >600
+Karena di data tidak ada pokemon yang lebih dari 800 maka data kriteria S diubah menjadi >=600
 Venusaur 625
 Charizard 634
 CharizardMega 634
